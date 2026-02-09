@@ -1,3 +1,3 @@
 # Numerical analysis of quantum Bayesian solutions to the coarse-graining problem
 
-This repository contains the code implementating the semidefinite programs and the data required to generate the numerical results presented in the master's thesis titled A Semidefinite Programming Analysis of Quantum Bayesian Solutions to the Coarse-Graining Problem.
+This repository contains the code implementating the semidefinite programs and the random states required to generate the numerical results presented in the master's thesis titled "A Semidefinite Programming Analysis of Quantum Bayesian Solutions to the Coarse-Graining Problem".
