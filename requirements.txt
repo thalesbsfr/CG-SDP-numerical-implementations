@@ -1,0 +1,13 @@
+cvxpy 
+mosek
+qiskit
+typing 
+pickle
+os 
+scipy
+pandas 
+matplotlib
+seaborn
+latex
+numpy
+
