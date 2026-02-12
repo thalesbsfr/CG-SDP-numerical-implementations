@@ -18,5 +18,14 @@ Requirements
     - seaborn
     - latex
     - numpy
-      
+
+ 
+Install the packages through the following command:
+
+```shell
+pip3 install -r requirements.txt
+```
+
+![Status](https://img.shields.io/badge/status-under%20construction-yellow)
+(Repository under construction...)
 
